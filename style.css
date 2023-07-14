@@ -1,0 +1,11 @@
+button{
+    cursor: pointer;
+    background-color: rgb(251, 250, 251);
+
+}
+body{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin-top: 250px;
+}
